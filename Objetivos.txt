@@ -1,0 +1,18 @@
+1. Distribución de los Géneros
+Análisis: Analiza la distribución de los géneros (columna genre_list) para entender cuáles son los más comunes. Esto se puede hacer contando la frecuencia de cada género.
+
+
+2. Duración de Películas y Series
+Análisis: Separa las películas de las series (usando la columna type) y analiza la distribución de la duración para cada una. Para series, podrías contar el número de temporadas, y para películas, el tiempo de duración.
+
+
+3. Lanzamientos por País
+Análisis: Investiga cuántos programas y películas fueron lanzados por país (columna country). Esto te dará una visión de la distribución geográfica de los contenidos.
+
+
+4. Tendencias de Fechas de Adición
+Análisis: Analiza la columna date_added para ver si hay alguna tendencia en las fechas en las que los contenidos fueron añadidos al catálogo. Por ejemplo, podrías investigar si hay picos en ciertas épocas del año.
+
+
+5. Comparación de Años de Lanzamiento
+Análisis: Compara los años de lanzamiento (columna release_year) para ver si hay algún patrón en cuanto a qué años son más comunes entre los contenidos.
